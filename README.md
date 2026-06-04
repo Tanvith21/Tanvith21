@@ -19,15 +19,25 @@
 <hr/>
 
 ## 👨‍💻 About Me
+
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-🎓 MS Computer Science @ **University at Buffalo** (GPA: 3.95/4.0)
-☁️ Ex-Software Engineering Intern @ **Microsoft Azure** — optimized VM provisioning pipelines handling **100K+ concurrent requests**
-🚀 Passionate about building **scalable distributed systems**, **backend APIs**, and **cloud-native applications**
-🛠️ Experienced in **C++, Java, Python, JavaScript** with hands-on production experience across **AWS, Azure & GCP**
-🧠 Strong foundations in **DSA, System Design, and Distributed Systems** — Gold Medalist at **IMO**
-🌱 Currently exploring **LLM integrations**, **Kubernetes at scale**, and **advanced system design patterns**
-💼 Actively seeking **Full-time SDE/SWE roles** starting **mid-2026**
-<br/>
+
+- 🎓 MS Computer Science @ **University at Buffalo** (GPA: 3.95/4.0)
+
+- 🚀 Passionate about building **scalable distributed systems**, **backend APIs**, and **cloud-native applications**
+
+- 🛠️ Experienced in **C++, Java, Python, JavaScript** with hands-on production experience across **AWS, Azure & GCP**
+
+- 🧠 Strong foundations in **DSA, System Design, and Distributed Systems** — Gold Medalist at **IMO**
+
+- 🌱 Currently exploring **LLM integrations**, **Kubernetes at scale**, and **advanced system design patterns**
+
+- 💼 Actively seeking **Full-time SDE/SWE roles** starting **mid-2026**
+
+<br clear="right"/>
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-tanvith-gulla-5a070a350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvithgulla21@gmail.com) 
