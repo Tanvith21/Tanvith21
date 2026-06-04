@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Gulla%20Sai%20Tanvith&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20UB%20%7C%20Ex-Microsoft%20Azure&descAlignY=55&descSize=18" />
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Gulla%20Sai%20Tanvith&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20UB%20%7C%20Ex-Microsoft%20Azure&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Gulla%20Sai%20Tanvith&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20UB%20%7C%20Backend%20%26%20Cloud&descAlignY=55&descSize=18" />
 </div>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#00C9FF;">Gulla Sai Tanvith!</span></h1>
@@ -24,7 +21,6 @@
 ## 👨‍💻 About Me
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 🎓 MS Computer Science @ **University at Buffalo** (GPA: 3.95/4.0)
-☁️ Ex-Software Engineering Intern @ **Microsoft Azure** — optimized VM provisioning pipelines handling **100K+ concurrent requests**
 🚀 Passionate about building **scalable distributed systems**, **backend APIs**, and **cloud-native applications**
 🛠️ Experienced in **C++, Java, Python, JavaScript** with hands-on production experience across **AWS, Azure & GCP**
 🧠 Strong foundations in **DSA, System Design, and Distributed Systems** — Gold Medalist at **IMO**
