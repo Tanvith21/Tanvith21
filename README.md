@@ -1,6 +1,36 @@
-# 💫 About Me:
-🔭 I'm currently working on — Scalable distributed systems and full-stack applications; previously optimized VM provisioning pipelines at Microsoft Azure handling 100K+ concurrent requests<br>👯 I'm looking to collaborate on — Backend-heavy or full-stack open-source projects involving microservices, cloud infrastructure, or real-time systems<br>🤝 I'm looking for help with — Full-time SDE/SWE roles starting mid-2026 (MS CS @ University at Buffalo, GPA: 3.95)<br>🌱 I'm currently learning — Advanced distributed systems, Kubernetes at scale, and LLM application development with LangChain & OpenAI API<br>💬 Ask me about — C++/Java/Python backend engineering, REST & GraphQL APIs, AWS/Azure/GCP cloud infrastructure, Docker & Kubernetes, DSA, or system design<br>⚡ Fun fact — Gold Medalist at the International Mathematics Olympiad (IMO) and qualified for India's Regional & Pre-Regional Mathematics Olympiad!<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Gulla%20Sai%20Tanvith&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20UB%20%7C%20Ex-Microsoft%20Azure&descAlignY=55&descSize=18" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Gulla%20Sai%20Tanvith&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20UB%20%7C%20Ex-Microsoft%20Azure&descAlignY=55&descSize=18" />
+</div>
 
+<h1 align="center">Hey 👋, I'm <span style="color:#00C9FF;">Gulla Sai Tanvith!</span></h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-tanvith-gulla-5a070a350/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tanvithgulla21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Tanvith21">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<hr/>
+
+## 👨‍💻 About Me
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+🎓 MS Computer Science @ **University at Buffalo** (GPA: 3.95/4.0)
+☁️ Ex-Software Engineering Intern @ **Microsoft Azure** — optimized VM provisioning pipelines handling **100K+ concurrent requests**
+🚀 Passionate about building **scalable distributed systems**, **backend APIs**, and **cloud-native applications**
+🛠️ Experienced in **C++, Java, Python, JavaScript** with hands-on production experience across **AWS, Azure & GCP**
+🧠 Strong foundations in **DSA, System Design, and Distributed Systems** — Gold Medalist at **IMO**
+🌱 Currently exploring **LLM integrations**, **Kubernetes at scale**, and **advanced system design patterns**
+💼 Actively seeking **Full-time SDE/SWE roles** starting **mid-2026**
+<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-tanvith-gulla-5a070a350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvithgulla21@gmail.com) 
