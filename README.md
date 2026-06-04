@@ -1,44 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Gulla%20Sai%20Tanvith&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20UB%20%7C%20Backend%20%26%20Cloud&descAlignY=55&descSize=18" alt="header" width="100%"/>
-</div>
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Gulla%20Sai%20Tanvith&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20UB%20%7C%20Backend%20%26%20Cloud&descAlignY=55&descSize=18" />
+
+</div>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#00C9FF;">Gulla Sai Tanvith!</span></h1>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/sai-tanvith-gulla-5a070a350/">
+
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
   </a>
+
   <a href="mailto:tanvithgulla21@gmail.com">
+
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
   </a>
+
   <a href="https://github.com/Tanvith21">
+
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
   </a>
+
 </p>
 
 <hr/>
 
 ## 👨‍💻 About Me
-
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 - 🎓 MS Computer Science @ **University at Buffalo** (GPA: 3.95/4.0)
-
 - 🚀 Passionate about building **scalable distributed systems**, **backend APIs**, and **cloud-native applications**
-
 - 🛠️ Experienced in **C++, Java, Python, JavaScript** with hands-on production experience across **AWS, Azure & GCP**
-
 - 🧠 Strong foundations in **DSA, System Design, and Distributed Systems** — Gold Medalist at **IMO**
-
 - 🌱 Currently exploring **LLM integrations**, **Kubernetes at scale**, and **advanced system design patterns**
-
 - 💼 Actively seeking **Full-time SDE/SWE roles** starting **mid-2026**
-
 <br clear="right"/>
-
----
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-tanvith-gulla-5a070a350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvithgulla21@gmail.com) 
